@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://dq7du4upxrihy"]
+
+[ext_resource type="Script" path="res://Approach 0/Test.gd" id="1_eto55"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Node" type="Node" parent="."]
+script = ExtResource("1_eto55")
+
+[node name="Node2" type="Node" parent="."]
+script = ExtResource("1_eto55")

@@ -1,0 +1,17 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1724271175
+AgentController.gd::GDScript::-1::1724270879::0::1::::<>Node<>::
+icon.svg::CompressedTexture2D::7002413629939507027::1724267273::1724267278::1::::<><>::
+LevelLoader.gd::GDScript::-1::1724270529::0::1::::<>Node<>::
+other.tscn::PackedScene::5902197364233155861::1724271074::0::1::::<><>::res://AgentController.gd
+Singleton_2.tscn::PackedScene::476934414175181822::1724271175::0::1::::<><>::res://LevelLoader.gd<>res://Approach 2/Singleton_2.gd
+::res://Approach 0/::1724271130
+Singleton_0.gd::GDScript::-1::1724268467::0::1::::<>Node<>::
+Singleton_0.tscn::PackedScene::8348563059060318718::1724271124::0::1::::<><>::res://Approach 0/Test.gd
+Test.gd::GDScript::-1::1724270190::0::1::::<>Node<>::
+::res://Approach 1/::1724271148
+SingletonAccessor.gd::GDScript::-1::1724268819::0::1::::<>Node<>::
+Singleton_1.gd::GDScript::-1::1724270190::0::1::::<>Node<>::
+Singleton_1.tscn::PackedScene::5890949044212137731::1724271147::0::1::::<><>::res://Approach 1/Singleton_1.gd<>res://Approach 0/Test.gd
+::res://Approach 2/::1724271175
+Singleton_2.gd::GDScript::-1::1724271048::0::1::::Singleton_2<>Node<>::

@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://g2bbmm5o2m35"]
+
+[ext_resource type="Script" path="res://LevelLoader.gd" id="1_bxu45"]
+[ext_resource type="Script" path="res://Approach 2/Singleton_2.gd" id="3_bhp4b"]
+
+[node name="Bootstrap" type="Node3D"]
+script = ExtResource("1_bxu45")
+
+[node name="Singleton Parent" type="Node" parent="."]
+
+[node name="Singleton A" type="Node" parent="Singleton Parent"]
+script = ExtResource("3_bhp4b")

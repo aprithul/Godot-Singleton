@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://cqdclfqhetg7f"]
+
+[ext_resource type="Script" path="res://AgentController.gd" id="1_l82x1"]
+
+[node name="Other" type="Node3D"]
+
+[node name="Agent" type="Node" parent="."]
+script = ExtResource("1_l82x1")
+
+[node name="Agent2" type="Node" parent="."]
+script = ExtResource("1_l82x1")

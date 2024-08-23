@@ -1,0 +1,20 @@
+res://Singleton_0.gd
+res://singleton_0_example.tscn
+res://Singleton_0.tscn
+res://Test.gd
+res://Singleton_1.tscn
+res://SingletonAccessor.gd
+res://Singleton_1.gd
+res://SingletonRegisteredNotifier.gd
+res://Singleton_2.gd
+res://LevelLoader.gd
+res://other.tscn
+res://Singleton_2.tscn
+res://AgentController.gd
+res://Approach 1/Singleton_1.tscn
+res://Approach 1/SingletonAccessor.gd
+res://Approach 0/Singleton_0.tscn
+res://Approach 0/Test.gd
+res://Approach 1/Singleton_1.gd
+res://Approach 2/Singleton_2.tscn
+res://Approach 2/Singleton_2.gd
